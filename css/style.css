@@ -1,3 +1,12 @@
-body  {
-
+.bg-white {
+    background-color: rgb(255, 255, 255)
+}
+.main-paragraph {
+    color:blue
+}
+.hero-section {
+    background-image: url(../img/img/pattern.png)
+}
+.hero-section {
+    background-color:rgb(130, 169, 242)
 }
